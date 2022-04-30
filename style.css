@@ -1,0 +1,50 @@
+body {
+   font-family: Arial; 
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(217, 255, 179);
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.drakont {
+    background-color: rgb(240, 252, 252);
+}
+
+.afina {
+    background-color: rgb(240, 252, 252);
+}
+
+.k afine {
+    width: auto;
+    height: auto;
+}
+
+h5 {
+    text-align: center;
+    font-size: large;
+}
+
+h6 {
+    text-align: center;
+    font-size: large;
+}
+
+.cparta {
+    background-color: rgb(240, 252, 252);
+}
+
+
+
+.img {
+    display: flex;
+    float: right;
+}
